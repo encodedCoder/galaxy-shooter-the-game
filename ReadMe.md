@@ -52,7 +52,7 @@ UserSettings/
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/encodedCoder/galaxy-shooter-the-game
+   git clone https://github.com/encodedCoder/galaxy-shooter-the-game.git
    ```
 2. Open the project in Unity.
 
