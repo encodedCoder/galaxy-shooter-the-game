@@ -1,4 +1,4 @@
-# Galaxy Shooter
+# Galaxy Shooter the game
 
 Galaxy Shooter is a Unity-based game project.
 
